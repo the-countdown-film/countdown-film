@@ -82,6 +82,7 @@ img{
     border-style:solid;
     margin: 10px 10px 10px 10px;
     padding: 1em 1em 1em 1em;
+    overflow-wrap:break-word;
 }
 
 #trailer{
